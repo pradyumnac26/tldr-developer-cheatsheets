@@ -7,11 +7,11 @@ Everything here is made from what I learn, practice, and simplify into quick Sys
 
 | Title | Cheatsheet | Long-form article |
 |---|---|---|
-| ACID Transactions | [Cheatsheet]()  | [Article Part 1](https://pradyumnachippigiri.dev/blogs/acid-transaction) <br> [Article Part 2](https://pradyumnachippigiri.dev/blogs/acid-transaction-part2)|
-| Topic 2 | [Cheatsheet](YOUR_LINK_HERE) | [Article](YOUR_LINK_HERE) |
-| Topic 3 | [Cheatsheet](YOUR_LINK_HERE) | [Article](YOUR_LINK_HERE) |
-| Topic 4 | [Cheatsheet](YOUR_LINK_HERE) | [Article](YOUR_LINK_HERE) |
-| Topic 5 | [Cheatsheet](YOUR_LINK_HERE) | [Article](YOUR_LINK_HERE) |
+| ACID Transactions | [Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/database-isolation-levels)  | [Article Part 1](https://pradyumnachippigiri.dev/blogs/acid-transaction) <br> [Article Part 2](https://pradyumnachippigiri.dev/blogs/acid-transaction-part2)|
+| WAL Logs |  | [Article](https://pradyumnachippigiri.dev/blogs/wal-logs) |
+| Scaling Databases |  | [Article](https://pradyumnachippigiri.dev/blogs/database-scaling) |
+| Sharding | | [Article](https://pradyumnachippigiri.dev/blogs/sharding) |
+| SQL vs NoSQL | [Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/types-of-databases) | [Article](https://pradyumnachippigiri.dev/blogs/sql-vs-nosql) |
 
 # Java 
 
