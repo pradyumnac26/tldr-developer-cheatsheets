@@ -8,7 +8,7 @@ Everything here is made from what I learn, practice, and simplify into quick Sys
 | Title | Cheatsheet | Long-form article |
 |---|---|---|
 | ACID Transactions | [Database isolation Levels Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/database-isolation-levels) <br> 
-[ACID](https://pradyumnachippigiri.dev/cheatsheets/acid)| [ACID Transactions Part 1](https://pradyumnachippigiri.dev/blogs/acid-transaction) <br> [ACID Transactions Part 2](https://pradyumnachippigiri.dev/blogs/acid-transaction-part2)|
+[ACID](https://pradyumnachippigiri.dev/cheatsheets/acid) | [ACID Transactions Part 1](https://pradyumnachippigiri.dev/blogs/acid-transaction) <br> [ACID Transactions Part 2](https://pradyumnachippigiri.dev/blogs/acid-transaction-part2)|
 Concurrency issues in Database | [Database Concurrency issue Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/conc-issues) | [ACID Transactions Part 2](https://pradyumnachippigiri.dev/blogs/acid-transaction-part2) |
 | ACID vs BASE | [Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/acid-vs-base) | |
 | WAL Logs |  | [Write Ahead Logs](https://pradyumnachippigiri.dev/blogs/wal-logs) |
