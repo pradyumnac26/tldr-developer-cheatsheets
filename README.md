@@ -15,8 +15,14 @@ Everything here is made from what I learn, practice, and simplify into quick Sys
 | SQL vs NoSQL | [Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/types-of-databases) | [Article](https://pradyumnachippigiri.dev/blogs/sql-vs-nosql) |
 
 # Java 
-
+| Title | Cheatsheet | 
+|---|---|
+Java Exceptions | [Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/java-exceptions) |
+Java Annotations | [Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/java-annotations) |
 
 # Devops 
 
-
+| Title | Cheatsheet | Long-form article |
+|---|---|---|
+| File Commands |  |  [Article](https://pradyumnachippigiri.dev/blogs/shell-scripting) |
+| Process Commands |  |  [Article](https://pradyumnachippigiri.substack.com/p/shell-scripting-for-devops-beginners-626) |
