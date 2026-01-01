@@ -28,6 +28,6 @@ Java Annotations | [Java Annotations Cheatsheet](https://pradyumnachippigiri.dev
 | Title | Cheatsheet | Long-form article |
 |---|---|---|
 | Linux File Commands | [Linux File and Directory Commands](https://pradyumnachippigiri.dev/cheatsheets/file-commands) |  [Shell Scripting Basics - Part 1](https://pradyumnachippigiri.dev/blogs/shell-scripting) |
-| Linux Process Commands | [Linux Process Managment Commands]() |  [Shell Scripting Basics Part 2](https://pradyumnachippigiri.substack.com/p/shell-scripting-for-devops-beginners-626) |
+| Linux Process Commands | [Linux Process Managment Commands](https://pradyumnachippigiri.dev/cheatsheets/linux-process) |  [Shell Scripting Basics Part 2](https://pradyumnachippigiri.substack.com/p/shell-scripting-for-devops-beginners-626) |
 | Linux File Directory Cheatsheet | [Linux File Structure Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/linux-file-structure)  | [Shell Scripting](https://pradyumnachippigiri.substack.com/p/shell-scripting-for-devops-beginners-626) | 
 
