@@ -16,12 +16,20 @@ Concurrency issues in Database | [Database Concurrency issue Cheatsheet](https:/
 | Sharding | [Sharding Strategies](https://pradyumnachippigiri.dev/cheatsheets/sharding-strategies) | [Sharding and Partitioning](https://pradyumnachippigiri.dev/blogs/sharding) |
 | Partitioning | [Types of Partitioning](https://pradyumnachippigiri.dev/cheatsheets/partitioning) | [Sharding and Partitioning](https://pradyumnachippigiri.dev/blogs/sharding) |
 | SQL vs NoSQL | [Types of Databases Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/types-of-databases) | [SQL vs NoSQL](https://pradyumnachippigiri.dev/blogs/sql-vs-nosql) |
-| CAP Theorem | [CAP Theorem overview](https://pradyumnachippigiri.dev/cheatsheets/cap-theorem) | [CAP Theorem](https://pradyumnachippigiri.dev/blogs/cap-theorm)
+| CAP Theorem | [CAP Theorem overview](https://pradyumnachippigiri.dev/cheatsheets/cap-theorem) | [CAP Theorem](https://pradyumnachippigiri.dev/blogs/cap-theorm) | 
+| Caching Strategies | [Caching Strategies Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/caching-strategies) | [Caching Strategies](https://pradyumnachippigiri.dev/blogs/caching-strategies) |
+| Caching Challenges | [Caching Challenges Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/caching-challenges) | [Caching Strategies](https://pradyumnachippigiri.dev/blogs/caching-strategies) |
+| Cache Eviction | [Cache Eviction Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/cache-eviction) | [Caching Strategies](https://pradyumnachippigiri.dev/blogs/caching-strategies) |
+| Latency vs Throughput | [Latency vs Throughput Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/latency-vs-throughput) |  |
+
 # Java 
 | Title | Cheatsheet | 
 |---|---|
 Java Exceptions | [Checked and Unchecked Exceptions Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/java-exceptions) |
 Java Annotations | [Java Annotations Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/java-annotations) |
+| HTTP Methods | [HTTP Methods Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/http-methods) |
+| HTTP Status Codes | [HTTP Status Codes Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/http-status-codes) |
+
 
 # Devops 
 
