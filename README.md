@@ -26,6 +26,7 @@ Concurrency issues in Database | [Database Concurrency issue Cheatsheet](https:/
 | Forward Proxy vs Reverse Proxy | [Forward vs Reverse Proxies Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/forward-vs-reverse-proxies) | [Client-Side Proxy vs Server-Side Proxy](https://pradyumnachippigiri.substack.com/p/client-side-proxy-vs-server-side) |
 | The Power of Bloom Filters | | [The Power of Bloom Filters](https://pradyumnachippigiri.substack.com/p/the-power-of-bloom-filters-in-system) |
 | Kafka Fundamentals | | [Kafka Fundamentals for System Design Interview](https://pradyumnachippigiri.substack.com/p/apache-kafka-basics) |
+| How databases store data on the disk | | [How databases store data on the disk](https://pradyumnachippigiri.substack.com/p/how-databases-store-data-on-the-disk)
 
 
 # Java 
