@@ -27,6 +27,7 @@ Concurrency issues in Database | [Database Concurrency issue Cheatsheet](https:/
 | The Power of Bloom Filters | | [The Power of Bloom Filters](https://pradyumnachippigiri.substack.com/p/the-power-of-bloom-filters-in-system) |
 | Kafka Fundamentals | | [Kafka Fundamentals for System Design Interview](https://pradyumnachippigiri.substack.com/p/apache-kafka-basics) |
 | How databases store data on the disk | | [How databases store data on the disk](https://pradyumnachippigiri.substack.com/p/how-databases-store-data-on-the-disk)
+| Parking Lot Manager System Design | | [Parking Lot Classic System Design](https://pradyumnachippigiri.dev/blogs/parking-lot-manager)
 
 
 # Java 
@@ -36,6 +37,8 @@ Java Exceptions | [Checked and Unchecked Exceptions Cheatsheet](https://pradyumn
 Java Annotations | [Java Annotations Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/java-annotations) |
 | HTTP Methods | [HTTP Methods Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/http-methods) |
 | HTTP Status Codes | [HTTP Status Codes Cheatsheet](https://pradyumnachippigiri.dev/cheatsheets/http-status-codes) |
+| Transform Existing GET response to the required contract format | [Article](https://pradyumnachippigiri.dev/blogs/spring-boot-response-transform) 
+
 
 
 # Devops 
